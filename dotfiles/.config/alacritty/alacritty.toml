@@ -1,0 +1,23 @@
+
+[debug]
+log_level = "Off"
+
+[font]
+size = 17
+normal = { family = "UbuntuMono Nerd Font" }
+
+[terminal.shell]
+program = "/run/current-system/sw/bin/bash"
+args = ["-l", "-c", "tmux attach || tmux"]
+
+[window]
+decorations = "none"
+startup_mode = "Maximized"
+option_as_alt = "Both"
+padding = { x = 1, y = 0 }
+
+[general]
+# import = ["~/.config/alacritty/themes/gruvbox_dark.toml"]
+import = ["~/.config/alacritty/themes/solarized_dark.toml"]
+
+[terminal]
