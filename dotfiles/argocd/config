@@ -1,0 +1,13 @@
+contexts:
+- name: argocd.192.168.129.7.sslip.io
+  server: argocd.192.168.129.7.sslip.io
+  user: argocd.192.168.129.7.sslip.io
+current-context: argocd.192.168.129.7.sslip.io
+servers:
+- grpc-web: true
+  grpc-web-root-path: ""
+  insecure: true
+  server: argocd.192.168.129.7.sslip.io
+users:
+- auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJhcmdvY2QiLCJzdWIiOiJhZG1pbjpsb2dpbiIsImV4cCI6MTcyMTg5MjQ3OCwibmJmIjoxNzIxODA2MDc4LCJpYXQiOjE3MjE4MDYwNzgsImp0aSI6IjUxOWZlYTg5LTcwNzYtNDEwNC05Yzk2LTBmZTY0N2YzZjNjNCJ9.-6EjeBSPaMg3-I9Dv5pX5Whw9n2o_jVNUwv5XsdCDJE
+  name: argocd.192.168.129.7.sslip.io

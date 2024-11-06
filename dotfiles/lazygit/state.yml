@@ -1,0 +1,30 @@
+lastupdatecheck: 0
+recentrepos:
+    - /Users/yr/Projects/mine/dotfiles
+    - /Users/yr/Documents/work/sitronics/repos/ais/ais-infrastructure/k8s
+    - /Users/yr/Documents/work/sitronics/repos/infra/sit-helm/monitoring
+    - /Users/yr/Documents/work/sitronics/repos/infra/templates/ci/nodejs
+    - /Users/yr/Documents/work/sitronics/repos/infra/templates/ops
+    - /Users/yr/Documents/work/artics/repos/internal/portal/smena-management-bot
+    - /Users/yr/Documents/work/sitronics/repos/mrp2/mrp2-infrastructure/devops
+    - /Users/yr/Documents/work/sitronics/repos/devops_test/devops-infrastructure/k8s
+    - /Users/yr/Documents/work/sitronics/repos/mrp2/mrp2-infrastructure/k8s
+    - /Users/yr/Documents/work/sitronics/repos/ais/ais-infrastructure/devops/ais-tstream-config
+    - /Users/yr/Documents/work/sitronics/repos/ais/ais-infrastructure/devops/ais-eworld-reader-config
+    - /Users/yr/Documents/work/artics/repos/internal/core/pm-worker
+    - /Users/yr/Documents/work/artics/repos/internal/core/planfix-worker
+    - /Users/yr/Documents/work/artics/repos/internal/etl-scripts
+    - /Users/yr/Documents/work/artics/repos/connectors/geo-connector
+    - /Users/yr/Documents/work/artics/repos/internal/core/fin-buh-worker
+    - /Users/yr/Documents/work/artics/repos/feed/feed-generator-ui
+startuppopupversion: 5
+lastversion: 0.42.0
+customcommandshistory:
+    - q
+hidecommandlog: false
+ignorewhitespaceindiffview: false
+diffcontextsize: 3
+localbranchsortorder: recency
+remotebranchsortorder: alphabetical
+gitlogorder: topo-order
+gitlogshowgraph: always

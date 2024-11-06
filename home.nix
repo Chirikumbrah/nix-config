@@ -12,6 +12,18 @@
             XDG_CONFIG_HOME = "$HOME/.config";
             PATH = "$PATH:$HOME/.local/bin:$HOME/.config/scripts:$HOME/.cargo/bin:/Applications/Postgres.app/Contents/Versions/latest/bin:/Library/Frameworks/Python.framework/Versions/3.12/bin:$HOME/.orbstack/bin";
         };
+        file = {
+            ".config/aerospace".source = dotfiles/aerospace;
+            ".tmux.conf".source = dotfiles/.tmux.conf;
+            ".config/alacritty".source = dotfiles/alacritty;
+            ".config/k9s".source = dotfiles/k9s;
+            ".config/nvim".source = dotfiles/nvim;
+            ".vimrc".source = dotfiles/.vimrc;
+            ".config/flameshot".source = dotfiles/flameshot;
+            ".config/helm".source = dotfiles/helm;
+            ".config/argocd".source = dotfiles/argocd;
+            ".config/scripts".source = dotfiles/scripts;
+        };
     };
     programs = {
         home-manager.enable = true;
